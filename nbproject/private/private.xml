@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/Authentication/src/java/khai/dev/UserListServlet.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/Authentication/src/java/khai/dev/data/impl/UserImpl.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/Authentication/src/java/khai/dev/data/dao/Database.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/Authentication/src/java/khai/dev/data/model/User.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/Authentication/web/DangNhap2.html</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/Authentication/src/java/khai/dev/data/dao/DatabaseDao.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/Authentication/src/java/khai/dev/data/dao/UserDAO.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/Authentication/src/java/khai/dev/LoginUserServlet.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/Authentication/web/login.html</file>
+        </group>
+    </open-files>
+</project-private>
